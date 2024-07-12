@@ -1,5 +1,6 @@
 const wrapper = document.querySelector(".sliderWrapper");
 const menuItems = document.querySelectorAll(".menuItem");
+// A no use commit, just for fun
 
 const products = [
   {
