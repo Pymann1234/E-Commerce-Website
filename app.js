@@ -2,7 +2,7 @@ const wrapper = document.querySelector(".sliderWrapper");
 const menuItems = document.querySelectorAll(".menuItem");
 // A no use commit, just for fun
 
-const products = [
+const products = [ // Data 
   {
     id: 1,
     title: "Air Force",
